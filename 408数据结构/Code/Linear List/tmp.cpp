@@ -1,14 +1,11 @@
-#include <iostream>
+#include <bits/stdc++.h>
 #define int long long
 #define endl "\n"
-#define n 100
 using namespace std;
 signed main()
 {
- 
-    
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-
-    // cout << count << endl;
     return 0;
 }
